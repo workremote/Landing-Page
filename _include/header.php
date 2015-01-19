@@ -8,6 +8,9 @@
 
   	<title><?php echo $title; ?></title>
   	<link href='/_core/css/style.css' rel='stylesheet'>
+
+  	<script src="//use.typekit.net/lyo4bdk.js"></script>
+	<script>try{Typekit.load();}catch(e){}</script>
 </head>
 
     <body id="<?php echo $id; ?>">
