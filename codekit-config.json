@@ -23,15 +23,26 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_core\/scss\/base\/_reset.scss" : {
+    "\/_core\/js\/jquery-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_reset.scss",
+      "inputAbbreviatedPath" : "\/_core\/js\/jquery-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_core\/js\/jquery-ck-ck.js",
+      "fileType" : 64
+    },
+    "\/_core\/scss\/style.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/scss\/style.scss",
       "outputStyle" : 1,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/_reset.css",
+      "outputAbbreviatedPath" : "\/_core\/css\/style.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -44,15 +55,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_core\/scss\/style.scss" : {
+    "\/_core\/scss\/base\/_reset.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/style.scss",
+      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_reset.scss",
       "outputStyle" : 1,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/style.css",
+      "outputAbbreviatedPath" : "\/_core\/css\/_reset.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -101,6 +112,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_core\/imgs\/header.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/imgs\/header.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_core\/imgs\/header.png",
+      "initialSize" : 1331463,
+      "fileType" : 8192
+    },
     "\/favicon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -132,14 +154,17 @@
       "initialSize" : 56344,
       "fileType" : 8192
     },
-    "\/config.rb" : {
+    "\/_core\/scss\/base\/_vars.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
+      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_vars.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_core\/css\/_vars.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/_core\/js\/jquery.js" : {
       "ignoreWasSetByUser" : 0,
@@ -152,17 +177,14 @@
       "outputAbbreviatedPath" : "\/_core\/js\/jquery-ck.js",
       "fileType" : 64
     },
-    "\/_core\/scss\/base\/_vars.scss" : {
+    "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_vars.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/_vars.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/config.rb",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 32768
     },
     "\/_core\/scss\/base\/_layout.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -212,6 +234,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/about\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/about\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_core\/scss\/pages\/_home.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -223,15 +254,6 @@
       "outputAbbreviatedPath" : "\/_core\/css\/_home.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/about\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/about\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     }
   },
   "manualImportLinks" : [

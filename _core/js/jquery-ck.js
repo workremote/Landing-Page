@@ -1,0 +1,1 @@
+function resizeDiv(){vpw=$(window).width();vph=$(window).height();$(".viewport").css({height:vph+"px"})}$(document).ready(function(){resizeDiv()});window.onresize=function(e){resizeDiv()};

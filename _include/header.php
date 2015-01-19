@@ -13,5 +13,5 @@
 	<script>try{Typekit.load();}catch(e){}</script>
 </head>
 
-    <body id="<?php echo $id; ?>">
+    <body class="<?php echo $class; ?>">
 

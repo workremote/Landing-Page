@@ -1,0 +1,73 @@
+.landing-page {
+	text-align: center;
+	font-family: $primary;
+
+
+		.viewport {
+			background: $dark-overlay url(../imgs/header.png) no-repeat center center ; 
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+			position: relative;
+			min-height: 600px;
+
+
+				.logo {
+				  text-indent: -9999px;
+				  width: 151px;
+				  height: 18px;
+				  background: url(../imgs/logo.svg);
+				  background-size: 151px 18px;
+				  margin: auto;
+				  margin-top: 30px;
+				}
+				.go-down {
+				  text-indent: -9999px;
+				  width: 27.4px;
+				  height: 14.7px;
+				  background: url(../imgs/down.svg);
+				  background-size: 27.4px 14.7px;
+				  position: absolute;
+				  bottom: 30px;
+				  left: 50%;
+				  right: 50%;
+				  margin-left: -13.5px;
+				}
+				.middle-text {
+					height: 150px;
+					position: absolute;
+					margin: auto;
+					left: 0px;
+					right: 0px;
+					top: 0px;
+					bottom: 0px;
+				}
+				.body {
+					opacity: 0.7;
+					color: white !important;
+				}
+				.heading1 {
+					color: white !important;
+					margin-bottom: 20px;
+				}
+		}
+
+
+
+
+		.featured-spaces {
+			margin-top: 100px;
+			margin-bottom: 100px;
+
+			.body {
+				color: $secondary-text !important;
+			}
+
+
+		}
+
+
+
+
+}
