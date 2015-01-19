@@ -23,15 +23,33 @@ include ("_include/header.php");
 	<div class="span">
 		<div class="loop-12">
 			<div class="loop-12">
-				<p class="heading1">How it works</p>
+				<p class="heading1">Start Exploring</p>
 				<p class="body">Get prepared for the finest café’s and co-working spaces available to you.</p>
 			</div>
 			<div class="loop-4">
-				<img src="_core/imgs/spaces/1.png" alt="Workshop Coffee">
-				<img src="_core/imgs/spaces/3.png" alt="Smiley face">
+				<div class="image">
+	                <img src="_core/imgs/spaces/1.png"/>
+	                <div class="overlay">
+	                  <p class="space-name">Workshop Coffee</p>
+	                  <p class="space-details">Coffeebar • London</p>
+	                </div>
+            	</div>
+				<div class="image">
+	                <img src="_core/imgs/spaces/3.png"/>
+	                <div class="overlay">
+	                  <p class="space-name">Name of Place</p>
+	                  <p class="space-details">Type • Location</p>
+	                </div>
+            	</div>
 			</div>
 			<div class="loop-4">
-				<img src="_core/imgs/spaces/3.png" alt="WeWork">
+				<div class="image">
+	                <img src="_core/imgs/spaces/3.png"/>
+	                <div class="overlay">
+	                  <p class="space-name">WeWork</p>
+	                  <p class="space-details">Coworking Space • London</p>
+	                </div>
+            	</div>
 				<img src="_core/imgs/spaces/4.png" alt="Smiley face">
 			</div>
 			<div class="loop-4">

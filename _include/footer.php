@@ -9,7 +9,13 @@
 					<li>Twitter</li>
 					<li>Facebook</li>
 					<li>Instagram</li>
-
+				</ul>
+				<ul class="right">
+					<li>© Remote 2015</li>
+				<ul>
+			</div>
+		</div>
+	</div>
 </footer>
 
 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="28px" height="15px" viewBox="0 0 28 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="28px" height="16px" viewBox="0 0 28 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>down 2</title>
+    <title>down</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Home" sketch:type="MSArtboardGroup" transform="translate(-663.000000, -607.000000)" fill-opacity="0.5" fill="#FFFFFF">
+        <g id="Home" sketch:type="MSArtboardGroup" transform="translate(-636.000000, -654.000000)" fill="#FFFFFF">
             <g id="Header" sketch:type="MSLayerGroup">
-                <g id="Btn:-Slide-down" transform="translate(635.000000, 607.000000)" sketch:type="MSShapeGroup">
-                    <path d="M42.0888164,14.8115839 C42.2203675,14.7634284 42.3438244,14.686869 42.449218,14.5814755 C42.4780018,14.5526916 42.5046781,14.5226509 42.5292493,14.4915396 L55.1730316,1.84775731 C55.5523927,1.46839627 55.5577599,0.82986412 55.1672356,0.439339828 C54.7739886,0.0460928729 54.1461413,0.0462205445 53.7588181,0.433543751 L41.737159,12.4552029 L29.7154999,0.433543751 C29.3361388,0.0541827076 28.6976067,0.0488155365 28.3070824,0.439339828 C27.9138354,0.832586784 27.9139631,1.46043411 28.3012863,1.84775731 L40.9465698,14.4930409 C40.9706812,14.5236885 40.9968551,14.5532306 41.0250999,14.5814755 C41.315513,14.8718885 41.7338731,14.9477618 42.0888164,14.8115839 Z" id="down-2"></path>
+                <g id="Btn:-Slide-down" transform="translate(635.000000, 641.000000)" sketch:type="MSShapeGroup">
+                    <path d="M5.28967628,24.1055622 C5.05484086,23.9220381 4.90380592,23.6378222 4.90380592,23.3262164 L4.90380592,5.30982259 C4.90380592,4.76206486 5.34767074,4.31801948 5.90380592,4.31801948 C6.45609067,4.31801948 6.90380592,4.77332506 6.90380592,5.30982259 L6.90380592,22.5104076 L24.104391,22.5104076 C24.6521487,22.5104076 25.0961941,22.9542725 25.0961941,23.5104076 C25.0961941,24.0626924 24.6408885,24.5104076 24.104391,24.5104076 L6.08799719,24.5104076 C5.76062744,24.5104076 5.47030277,24.3518633 5.28967628,24.1055622 Z" id="down" transform="translate(15.000000, 14.414214) rotate(-45.000000) translate(-15.000000, -14.414214) "></path>
                 </g>
             </g>
         </g>

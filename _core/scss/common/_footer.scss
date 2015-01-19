@@ -1,0 +1,29 @@
+footer {
+	height: 80px;
+	
+		.left {
+			display: inline;
+			float: left;
+			text-align: left;
+
+				li {
+					display: inline;
+					padding-right: 40px;
+					color: $secondary-text;
+					font-size: 15px;
+				}
+		}
+		.right {
+			display: inline;
+			float: right;
+			text-align: right;
+
+				li {
+					display: inline;
+					padding-right: 40px;
+					color: $secondary-text;
+					font-size: 15px;
+				}
+		}
+
+}
