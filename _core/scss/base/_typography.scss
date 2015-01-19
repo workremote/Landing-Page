@@ -17,3 +17,11 @@
 	font-size: $bodytext;
 	color: $text;
 }
+a {
+	color: $cta;
+	text-decoration: none;
+
+		&:hover {
+			color: darken($cta, 10%);
+		}
+}

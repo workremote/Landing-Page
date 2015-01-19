@@ -27,13 +27,27 @@ include ("_include/header.php");
 				<p class="body">Get prepared for the finest café’s and co-working spaces available to you.</p>
 			</div>
 			<div class="loop-4">
-
+				<img src="_core/imgs/spaces/1.png" alt="Workshop Coffee">
+				<img src="_core/imgs/spaces/3.png" alt="Smiley face">
 			</div>
 			<div class="loop-4">
-
+				<img src="_core/imgs/spaces/3.png" alt="WeWork">
+				<img src="_core/imgs/spaces/4.png" alt="Smiley face">
 			</div>
 			<div class="loop-4">
+				<img src="_core/imgs/spaces/5.png" alt="The Book Club">
+				<img src="_core/imgs/spaces/3.png" alt="WeWork">
+			</div>
+		</div>
+	</div>
+</section>
 
+<section class="join">
+	<div class="span">
+		<div class="loop-12">
+			<div class="loop-12">
+				<p class="heading1">Join the Remote community</p>
+				<p class="body">Get your invite sent to you when we’re ready.<br>Coming first to New York & London. <a href="">Is your city coming?</a></p>
 			</div>
 		</div>
 	</div>

@@ -4,7 +4,7 @@
 
 
 		.viewport {
-			background: $dark-overlay url(../imgs/header.png) no-repeat center center ; 
+			background: $dark-overlay url(../imgs/header2.png) no-repeat center center ; 
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
 			-o-background-size: cover;
@@ -23,19 +23,20 @@
 				  margin-top: 30px;
 				}
 				.go-down {
+				  cursor: pointer;
 				  text-indent: -9999px;
-				  width: 27.4px;
-				  height: 14.7px;
+				  width: 28px;
+				  height: 15px;
 				  background: url(../imgs/down.svg);
-				  background-size: 27.4px 14.7px;
+				  background-size: 28px 15px;
 				  position: absolute;
 				  bottom: 30px;
 				  left: 50%;
 				  right: 50%;
-				  margin-left: -13.5px;
+				  margin-left: -14px;
 				}
 				.middle-text {
-					height: 150px;
+					height: 90px;
 					position: absolute;
 					margin: auto;
 					left: 0px;
@@ -49,7 +50,6 @@
 				}
 				.heading1 {
 					color: white !important;
-					margin-bottom: 20px;
 				}
 		}
 
@@ -58,13 +58,27 @@
 
 		.featured-spaces {
 			margin-top: 100px;
-			margin-bottom: 100px;
+			margin-bottom: 120px;
 
 			.body {
 				color: $secondary-text !important;
+				margin-bottom: 80px;
+			}
+			img {
+				margin-bottom: 10px;
 			}
 
 
+		}
+
+
+
+		.join {
+			margin-bottom: 120px;
+
+				.body {
+					color: $secondary-text !important;
+				}
 		}
 
 
