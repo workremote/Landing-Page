@@ -3,8 +3,6 @@
 		<div class="loop-12">
 			<div class="loop-12">
 				<ul class="left">
-					<li>Blog</li>
-					<li>Press</li>
 					<li>About</li>
 					<li>Twitter</li>
 					<li>Facebook</li>

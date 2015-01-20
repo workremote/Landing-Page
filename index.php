@@ -29,7 +29,7 @@ include ("_include/header.php");
 			<div class="loop-4">
 				<div class="image">
 	                <img src="_core/imgs/spaces/1.png"/>
-	                <div class="overlay">
+	                <div class="overlay animated ">
 	                  <p class="space-name">Workshop Coffee</p>
 	                  <p class="space-details">Coffeebar • London</p>
 	                </div>
@@ -53,14 +53,26 @@ include ("_include/header.php");
 				<div class="image">
 	                <img src="_core/imgs/spaces/4.png"/>
 	                <div class="overlay">
-	                  <p class="space-name">WeWork</p>
-	                  <p class="space-details">Coworking Space • London</p>
+	                  <p class="space-name">Name</p>
+	                  <p class="space-details">Coworking Space • New York</p>
 	                </div>
             	</div>
 			</div>
 			<div class="loop-4">
-				<img src="_core/imgs/spaces/5.png" alt="The Book Club">
-				<img src="_core/imgs/spaces/3.png" alt="WeWork">
+				<div class="image">
+	                <img src="_core/imgs/spaces/5.png"/>
+	                <div class="overlay">
+	                  <p class="space-name">Timberyard</p>
+	                  <p class="space-details">Coffeebar • London</p>
+	                </div>
+            	</div>
+				<div class="image">
+	                <img src="_core/imgs/spaces/3.png"/>
+	                <div class="overlay">
+	                  <p class="space-name">Name of Place</p>
+	                  <p class="space-details">Coffeebar • New York</p>
+	                </div>
+            	</div>
 			</div>
 		</div>
 	</div>
@@ -72,6 +84,10 @@ include ("_include/header.php");
 			<div class="loop-12">
 				<p class="heading1">Join the Remote community</p>
 				<p class="body">Get your invite sent to you when we’re ready.<br>Coming first to New York & London. <a href="">Is your city coming?</a></p>
+				<form class='cta' action="action_page.php">
+					<input type="email"  placeholder="Your email address">
+					<input type="submit" value="Send">
+				</form>
 			</div>
 		</div>
 	</div>

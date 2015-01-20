@@ -2,15 +2,15 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
-    "\/_core\/scss\/pages\/_home.scss" : {
+    "\/_core\/scss\/base\/_typography.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/pages\/_home.scss",
+      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_typography.scss",
       "outputStyle" : 1,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/_home.css",
+      "outputAbbreviatedPath" : "\/_core\/css\/_typography.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -46,26 +46,6 @@
       "outputAbbreviatedPath" : "\/_core\/js\/jquery-ck-ck.js",
       "fileType" : 64
     },
-    "\/_include\/header.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_include\/header.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_core\/imgs\/spaces\/5.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/imgs\/spaces\/5.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_core\/imgs\/spaces\/5.png",
-      "initialSize" : 671402,
-      "fileType" : 8192
-    },
     "\/_core\/scss\/base\/_reset.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -75,6 +55,27 @@
       "outputStyle" : 1,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/_core\/css\/_reset.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/_include\/header.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_include\/header.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_core\/scss\/style.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/scss\/style.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_core\/css\/style.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -90,15 +91,26 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_core\/scss\/style.scss" : {
+    "\/_core\/imgs\/spaces\/5.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/style.scss",
+      "inputAbbreviatedPath" : "\/_core\/imgs\/spaces\/5.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_core\/imgs\/spaces\/5.png",
+      "initialSize" : 671402,
+      "fileType" : 8192
+    },
+    "\/_core\/scss\/base\/_animate.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_animate.scss",
       "outputStyle" : 1,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/style.css",
+      "outputAbbreviatedPath" : "\/_core\/css\/_animate.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -114,18 +126,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_core\/scss\/base\/_animate.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_animate.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/_animate.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/_core\/imgs\/spaces\/3.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -137,34 +137,16 @@
       "initialSize" : 585398,
       "fileType" : 8192
     },
-    "\/_include\/footer.php" : {
+    "\/_core\/imgs\/header.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_include\/footer.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_core\/js\/jquery.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/js\/jquery.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_core\/js\/jquery-ck.js",
-      "fileType" : 64
-    },
-    "\/_core\/css\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/_core\/imgs\/header.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_core\/imgs\/header.png",
+      "initialSize" : 1331463,
+      "fileType" : 8192
     },
     "\/favicon.png" : {
       "ignoreWasSetByUser" : 0,
@@ -177,16 +159,25 @@
       "initialSize" : 1230,
       "fileType" : 8192
     },
-    "\/apple-touch-icon.png" : {
+    "\/_core\/css\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/css\/style.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/_core\/js\/jquery.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/apple-touch-icon.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/apple-touch-icon.png",
-      "initialSize" : 56344,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_core\/js\/jquery.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_core\/js\/jquery-ck.js",
+      "fileType" : 64
     },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
@@ -196,17 +187,6 @@
       "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
-    },
-    "\/_core\/imgs\/header.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/imgs\/header.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_core\/imgs\/header.png",
-      "initialSize" : 1331463,
-      "fileType" : 8192
     },
     "\/_core\/imgs\/header2.png" : {
       "ignoreWasSetByUser" : 0,
@@ -231,6 +211,26 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/apple-touch-icon.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/apple-touch-icon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/apple-touch-icon.png",
+      "initialSize" : 56344,
+      "fileType" : 8192
+    },
+    "\/_include\/footer.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_include\/footer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_core\/scss\/base\/_layout.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -240,18 +240,6 @@
       "outputStyle" : 1,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/_core\/css\/_layout.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_core\/scss\/pages\/_about.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/pages\/_about.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/_about.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -266,6 +254,18 @@
       "initialSize" : 208332,
       "fileType" : 8192
     },
+    "\/_core\/scss\/pages\/_about.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/scss\/pages\/_about.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_core\/css\/_about.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/_core\/imgs\/spaces\/1.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -276,27 +276,6 @@
       "outputAbbreviatedPath" : "\/_core\/imgs\/spaces\/1.png",
       "initialSize" : 217488,
       "fileType" : 8192
-    },
-    "\/_core\/scss\/base\/_typography.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_core\/scss\/base\/_typography.scss",
-      "outputStyle" : 1,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_core\/css\/_typography.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/about\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/about\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_core\/scss\/common\/_footer.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -309,6 +288,27 @@
       "outputAbbreviatedPath" : "\/_core\/css\/_footer.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_core\/scss\/pages\/_home.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_core\/scss\/pages\/_home.scss",
+      "outputStyle" : 1,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_core\/css\/_home.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/about\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/about\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     }
   },
   "manualImportLinks" : [
